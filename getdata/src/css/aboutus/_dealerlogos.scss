@@ -1,0 +1,15 @@
+.dealerArea {
+  // background-image: url(/images/asset1.jpg);
+
+  height: auto;
+  background-repeat: repeat-x;
+  background-size: contain;
+  .dealer {
+    width: 90%;
+    height: 90%;
+  }
+  img {
+    width: 60%;
+    height: auto;
+  }
+}

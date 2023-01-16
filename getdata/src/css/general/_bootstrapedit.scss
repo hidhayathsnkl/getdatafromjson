@@ -1,0 +1,28 @@
+$my-Color: #1f3741;
+$bootstrap-md: 992px;
+
+.list-group-item {
+  background-color: none !important;
+}
+
+.list-group {
+  --bs-list-group-bg: none !important;
+}
+@media (max-width: $bootstrap-md) {
+  .offcanvas-title {
+    color: white;
+  }
+  .offcanvas {
+    background-color: $my-Color !important;
+    a {
+      color: white;
+      :hover {
+        color: rgba($my-Color, $alpha: 0.5) !important;
+      }
+    }
+  }
+}
+
+.container-fluid {
+  --bs-gutter-x: 0 !important;
+}

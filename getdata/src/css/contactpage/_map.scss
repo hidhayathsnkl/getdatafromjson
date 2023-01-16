@@ -1,0 +1,17 @@
+.maparea {
+  iframe {
+    width: 100%;
+  }
+  :hover {
+    background-color: rgb(39, 39, 42);
+    .card-title,
+    .card-text {
+      color: white;
+    }
+  }
+}
+
+.card-title,
+.card-text {
+  transition: 300ms ease-in;
+}

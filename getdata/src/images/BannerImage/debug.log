@@ -1,0 +1,7 @@
+[1205/094854.029:INFO:CONSOLE(1)] "(node) warning: possible EventEmitter memory leak detected. %d listeners added. Use emitter.setMaxListeners() to increase limit.", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/094854.030:INFO:CONSOLE(1)] "console.trace", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/094854.030:INFO:CONSOLE(1)] "(node) warning: possible EventEmitter memory leak detected. %d listeners added. Use emitter.setMaxListeners() to increase limit.", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/094854.030:INFO:CONSOLE(1)] "console.trace", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/094854.455:INFO:CONSOLE(1)] "(node) warning: possible EventEmitter memory leak detected. %d listeners added. Use emitter.setMaxListeners() to increase limit.", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/094854.455:INFO:CONSOLE(1)] "console.trace", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1205/163747.496:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.

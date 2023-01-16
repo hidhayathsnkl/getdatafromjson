@@ -1,0 +1,26 @@
+.animated,
+.clientNames,
+.solutionContent {
+  transform: translateY(100px);
+  transition: 300ms;
+  opacity: 0;
+}
+
+.show {
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+.zoomAnime {
+  transform: scale(0);
+  transition: 750ms ease-in;
+  opacity: 0;
+}
+.zoomshow {
+  transform: scale(1);
+  opacity: 1;
+}
+
+#newProduct {
+  position: relative;
+}
